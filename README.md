@@ -22,6 +22,7 @@ Code: [ETL_clean_kaggle_data.ipynb](https://github.com/daniel-sh-au/UofT_DataBC_
 
 ## Deliverable 4: Create the Movie Database
 Code: [ETL_create_database.ipynb](https://github.com/daniel-sh-au/UofT_DataBC_Module08_Movies-ETL/blob/main/ETL_create_database.ipynb)
+
 Screenshots: 
 | movie_query.png | ratings_query.png |
 | --------------- | ----------------- |
